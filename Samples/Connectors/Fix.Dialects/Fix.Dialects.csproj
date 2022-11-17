@@ -1,0 +1,6 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="..\..\common_connectors.props" />
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\StockSharpApps\Fix.Core\Fix.Core.csproj" />
+  </ItemGroup>
+</Project>
